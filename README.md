@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Redux**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,REACT**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT & REACT**
 
 - 📫 How to reach me **hrsk321@gmail.com**
 
