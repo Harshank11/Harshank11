@@ -4,7 +4,12 @@
                                    <h3 align="center">A Passionate  MERN developer</h3>
      <img  src="https://www.techuz.com/blog/wp-content/uploads/2018/08/How-to-hire-web-developers-from-India.gif" alt="harshank-patel" style="height:400px" />
 
+<br/>
 
+<h4> --- Hello I'm from India. I really enjoy learning new logics, algorithms in DSA and frameworks like React.js, Node.js as well as work in backend Technology. I also enjoy UI, UX, and design in general. I like to use advanced CSS in my projects since it gives a great look to it.---</h4>
+
+
+<br/>
 
 - 🔭 I’m currently working on **An employment website (naukri.com)**
 
