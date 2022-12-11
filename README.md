@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **An employment website (naukri.com)**
 
-- 🌱 I’m currently learning **React Redux**
+- 🌱 I’m currently learning **React Redux Next.js**
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT & REACT**
 
